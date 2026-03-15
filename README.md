@@ -12,8 +12,8 @@ This project implements all four attack category detectors from the paper and ev
 |----------|---------|-----------|--------|-----|
 | Ice Phishing (Category I) | 5,232 | 99.8% | 100.0% | **0.9988** |
 | NFT Order Scam (Category II) | 4,594 | 98.9% | 100.0% | **0.9943** |
-| Payable Function (Category IV) | 5,579 | 100.0% | 99.6% | **0.9981** |
 | Address Poisoning (Category III) | 4,211 | 91.5% | 52.7% | **0.6685** |
+| Payable Function (Category IV) | 5,579 | 100.0% | 99.6% | **0.9981** |
 
 ---
 
