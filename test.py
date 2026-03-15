@@ -1,7 +1,7 @@
 print("Python环境正常")
 print(f"测试一下：1 + 1 = {1 + 1}")
 
-# 测试能不能发网络请求
+# 测试api，能否正常发送网络请求
 import urllib.request
 import json
 
